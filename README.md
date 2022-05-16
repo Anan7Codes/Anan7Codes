@@ -11,7 +11,7 @@ I've been a developer for over 3 years now. I primarily work with Nextjs & React
 * 🚀  I'm currently working on [1) Data Storage Portal with Project Management Features. 2) An E-Commerce app. 3) Vehicle Inspection App.](http://github.com/Anan7Codes)
 * 🧠  I'm learning Kubernetes, Terraform, Github Actions & Solidity and Anchor.
 * 🤝  I'm open to collaborating on Web & App Projects
-* ⚡  I'm really crazy about Football & Anime. I do believe, under the right circumstances I'd have made it as a pro :)
+* ⚡  I'm really crazy about Football & Anime.
 
 <a href="https://www.twitter.com/anan7tweets" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/anan7tweets?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
