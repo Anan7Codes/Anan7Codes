@@ -8,7 +8,7 @@ I've been a developer for over 3 years now. I primarily work with Nextjs & React
 
 * 🌍  I'm based in Dubai
 * ✉️  You can contact me at [anan07dhu@outlook.com](mailto:anan07dhu@outlook.com)
-* 🧠  I'm learning Kubernetes, Terraform, Github Actions & Solidity and Anchor.
+* 🧠  I'm currently learning Solana Anchor.
 * 🤝  I'm open to collaborating on Web & App Projects
 * ⚡  I'm really crazy about Football & Anime.
 
