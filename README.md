@@ -4,7 +4,7 @@ Hi 👋 My name is Anandhu
 Co Founder | Full Stack Developer
 ---------------------------------
 
-I've been a developer for over 3 years now. I primarily work with Nextjs & React Native (Expo). I use MBaaS platforms like Supabase, Nhost, AWS Amplify & Firebase even though I do know how to build my apps from scratch.
+I've been a developer for over 3 years now. I primarily work with Nextjs & React Native (Expo).
 
 * 🌍  I'm based in Dubai
 * ✉️  You can contact me at [anan07dhu@outlook.com](mailto:anan07dhu@outlook.com)
