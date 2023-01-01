@@ -10,7 +10,6 @@ I've been a developer for over 3 years now. I primarily work with Nextjs & React
 * ✉️  You can contact me at [anan07dhu@outlook.com](mailto:anan07dhu@outlook.com)
 * 🧠  I'm currently learning Solidity & K8s.
 * 🤝  I'm open to collaborating on Web & App Projects
-* ⚡  I'm really crazy about Football & Anime.
 
 <a href="https://www.twitter.com/anan7tweets" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/anan7tweets?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
