@@ -1,7 +1,7 @@
 Hi 👋 My name is Anandhu
 ========================
 
-Co Founder | Full Stack Developer
+Full Stack Developer
 ---------------------------------
 
 I've been a developer for over 4 years now. I primarily work with Nextjs & React Native (Expo).
