@@ -4,11 +4,11 @@ Hi 👋 My name is Anandhu
 Full Stack Developer
 ---------------------------------
 
-I've been a developer for over 4 years now. I primarily work with Nextjs & React Native (Expo).
+I've been a developer for over 5 years.
 
 * 🌍  I'm based in Dubai
 * ✉️  You can contact me at [anan07dhu@outlook.com](mailto:anan07dhu@outlook.com)
-* 🧠  I'm currently learning Go & Tensorflow.js.
+* 🧠  I'm currently learning PWA & K8s.
 * 🤝  I'm open to collaborating on Web & App Projects
 
 <a href="https://www.twitter.com/anan7tweets" target="_blank" rel="noreferrer"><img
