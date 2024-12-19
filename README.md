@@ -1,7 +1,7 @@
 Hi 👋 My name is Anandhu
 ========================
 
-Tech Lead | Full Stack Developer
+Techpreneur
 ---------------------------------
 
 I've been a developer for over 6 years.
